@@ -14,6 +14,7 @@ The bookmarklet linked below is an easy way to track your open SSE orders. Just 
 		text-decoration: none;
 		margin-left: auto;
 		margin-right: auto;
+		text-align: center;
 	}
 </style>
 
