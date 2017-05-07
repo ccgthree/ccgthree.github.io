@@ -5,11 +5,15 @@ The bookmarklet linked below is an easy way to track your open SSE orders. Just 
 <style>
 	.bookmarklet {
 		display: block;
-		width: 100px;
-		line-height: 1.5em;
+		width: 200px;
+		line-height: 2em;
 		font-weight: bold;
 		background: rgb(243, 122, 31);
 		border-radius: 4px;
+		color: #ffffff;
+		text-decoration: none;
+		margin-left: auto;
+		margin-right: auto;
 	}
 </style>
 
