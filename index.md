@@ -30,6 +30,5 @@ Once you have the bookmarklet saved in your browser's bookmarks, click it. When 
 After you click the link, it will fade from the screen to move itself out of your way.
 
 ## Known Bugs and Issues
-- Canceling the prompts.
- - Canceling the prompts does not currently work. The script just continues on like you entered some information. This will be fixed in a future update.
+- Canceling the prompts does not currently work. The script just continues on like you entered some information. This will be fixed in a future update.
 - Prompts suck. The window prompts are ugly. Later, I will remove those in favor of a nice, single form. It'll be done at a later date, when I have time.
