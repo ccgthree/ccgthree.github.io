@@ -19,7 +19,7 @@ The bookmarklet linked below is an easy way to track your open SSE orders. Just 
 	}
 </style>
 
-<a class="bookmarklet" href="javascript:(function(){var jsCode=document.createElement('script');jsCode.setAttribute('src','https://rawgit.com/ccgthree/SSEOrderCheck/master/SSEOrderCheckLinkTest.js');document.body.appendChild(jsCode);setTimeout(function(){doStuff();},500)})();">SSE Tracking</a>
+<a class="bookmarklet" href="javascript:(function(){var jsCode=document.createElement('script');jsCode.setAttribute('src','https://rawgit.com/ccgthree/SSEOrderCheck/master/SSEOrderCheck.js');document.body.appendChild(jsCode);setTimeout(function(){doStuff();},500)})();">SSE Tracking</a>
 
 ## Using the Bookmarklet
 Once you have the bookmarklet saved in your browser's bookmarks, click it. When it runs, it will:
